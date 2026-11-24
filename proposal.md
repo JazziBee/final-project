@@ -1,5 +1,5 @@
 # Title
-Digital Color Mixer
+Digital Color Blender
 
 ## Repository
 <https://github.com/JazziBee/final-project.git>
